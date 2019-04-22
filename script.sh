@@ -8,6 +8,7 @@
 #3. check new files
 git status
 
+#4 Enter file names to Enter
 read -p "Enter File Name to ADD : " file
 
 #4. add files
