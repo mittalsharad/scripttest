@@ -8,8 +8,10 @@ ssh -T git@github.com
 #3. check new files
 git status
 
+read -p "Enter File Name to ADD : " file
+
 #4. add files
-git add .
+git add $file
 
 #5. commit
 git commit -m "Commit Succesfull"
