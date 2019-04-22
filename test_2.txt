@@ -8,3 +8,6 @@ test file 4 using script
 
 
 test file 5 using script
+
+
+test file 6 using script
