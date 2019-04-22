@@ -3,7 +3,7 @@
 #git clone ssh:git@github.com:sharad1994/scripttest.git
 
 #2. Authentication
-ssh -T git@github.com
+#ssh -T git@github.com
 
 #3. check new files
 git status
