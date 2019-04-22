@@ -11,3 +11,5 @@ test file 5 using script
 
 
 test file 6 using script
+
+test file 7 using script
