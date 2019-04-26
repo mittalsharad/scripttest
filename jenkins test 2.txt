@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is to test the jenkins remote pull command over our server
+=======
+this file is to test the jenkins remote pull command over our server
+>>>>>>> 7398f115a608675a1e39f46a11e730c3f3e4d78e
